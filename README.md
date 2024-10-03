@@ -31,8 +31,10 @@ BOT_TOKEN=""
 Place the Bot token you copied in step 1 between the double quotes above.
 
 
-### Installation Steps: if building the executable or running from source
+### Installation Steps:
 + python >= v3.8.1
++ [pip](https://pip.pypa.io/en/stable/installation/) required
++ With pip installed, run these commands from the command line/terminal:
 ```
 pip install aiohttp
 pip install python-dotenv
